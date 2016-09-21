@@ -15,7 +15,8 @@
   ],
   "dependencies": {
     "moment": "^2.10.0",
-    "polymer": "Polymer/polymer#^1.1.0"
+    "polymer": "Polymer/polymer#^1.1.0",
+    "moment-timezone": "^0.5.5"
   },
   "license": "MIT",
   "main": "moment-element.html",
