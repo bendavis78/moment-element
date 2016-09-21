@@ -1,6 +1,6 @@
 {
   "name": "moment-element",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Element wrapper for the moment.js library",
   "private": true,
   "authors": [
@@ -15,7 +15,8 @@
   ],
   "dependencies": {
     "moment": "^2.10.0",
-    "polymer": "Polymer/polymer#^1.1.0"
+    "polymer": "Polymer/polymer#^1.1.0",
+    "moment-timezone": "^0.5.5"
   },
   "license": "MIT",
   "main": "moment-element.html",
