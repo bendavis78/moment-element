@@ -14,8 +14,7 @@
     "wrapper"
   ],
   "dependencies": {
-    "moment": "^2.10.0",
-    "polymer": "Polymer/polymer#^1.1.0"
+    "moment": "^2.10.0"
   },
   "license": "MIT",
   "main": "moment-element.html",
@@ -23,12 +22,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/bendavis78/moment-element.git"
-  },
-  "devDependencies": {
-    "paper-styles": "PolymerElements/paper-styles#^1.0.4",
-    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
-    "test-fixture": "polymerelements/test-fixture#^1.0.0",
-    "web-component-tester": "*",
-    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
   }
 }
